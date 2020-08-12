@@ -32,5 +32,8 @@
 | 12 | GT2 Belt | ? meter | 1 | | :white_square_button: |
 |  |  |  |  | |  |
 
-Plastic / Misc
+## Plastic / MISC 
+
+| S/N | Components | Description    | Quantity | Vendor | Procured |
+|-----|------------|----------------|----------|--------|----------|
 
