@@ -36,4 +36,4 @@
 
 | S/N | Components | Description    | Quantity | Vendor | Procured |
 |-----|------------|----------------|----------|--------|----------|
-
+|  1  | Printed Parts |  | 1 |  | :white_square_button: |
