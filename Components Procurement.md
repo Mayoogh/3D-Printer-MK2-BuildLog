@@ -31,7 +31,7 @@
 | 9 | LM8UU | 8X15X24mm | 12 | | :white_square_button: |
 | 10 | GT2 pulley | 16 Teeth | 2 | [3dprintronics](https://www.3dprintronics.com/) | :ballot_box_with_check: |
 | 11 | GT2 pulley | No Teeth 3mm bore | 2 | [3dprintronics](https://www.3dprintronics.com/) | :ballot_box_with_check: |
-| 12 | GT2 Belt | X axis 850mm <br>Y axis 650mm                                | 1 | [3dprintronics](https://www.3dprintronics.com/) | :ballot_box_with_check: |
+| 12 | GT2 Belt | X axis 850mm <br>Y axis 650mm                                | 1 | [3dprintronics](https://www.3dprintronics.com/) | :white_square_button: |
 | 13   | Y carriage |  | 1 | | :white_square_button: |
 
 ## Plastic / MISC 
