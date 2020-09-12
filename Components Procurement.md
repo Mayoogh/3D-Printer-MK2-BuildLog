@@ -4,7 +4,7 @@
 
 | S/N | Components | Description    | Quantity | Vendor | Procured |
 |-----|------------|----------------|----------|--------|----------|
-|  1  | Mainboard SKR | :ballot_box_with_check: Turbo <br>:white_square_button: SKR v1.4 | 1 | [novo3d](https://novo3d.in/) | :white_square_button: |
+|  1  | Mainboard SKR | :ballot_box_with_check: Turbo | 1 | [novo3d](https://novo3d.in/) | :ballot_box_with_check: |
 |  2  | Stepper Driver | :ballot_box_with_check:TMC2208 <br>:white_square_button:TMC5160 | 4 |        |:white_square_button:|
 |  3  | Stepper Motor | Nema17 5.5Kg | 5 | [3dprintronics](https://www.3dprintronics.com/) |:white_square_button:|
 |  4  | Power Supply | :ballot_box_with_check:24V Meanwell | 1 | [3dprintronics](https://www.3dprintronics.com/) |:ballot_box_with_check:|
