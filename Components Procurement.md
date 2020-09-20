@@ -5,12 +5,12 @@
 | S/N | Components | Description    | Quantity | Vendor | Procured |
 |-----|------------|----------------|----------|--------|----------|
 |  1  | Mainboard SKR | :ballot_box_with_check: Turbo | 1 | [novo3d](https://novo3d.in/) | :ballot_box_with_check: |
-|  2  | Stepper Driver | :ballot_box_with_check:TMC2208 <br>:white_square_button:TMC5160 | 4 |        |:white_square_button:|
+|  2  | Stepper Driver | :ballot_box_with_check:TMC2208 <br>:white_square_button:TMC5160 | 4 |        |:ballot_box_with_check:|
 |  3  | Stepper Motor | Nema17 5.5Kg | 5 | [3dprintronics](https://www.3dprintronics.com/) |:white_square_button:|
 |  4  | Power Supply | :ballot_box_with_check:24V Meanwell | 1 | [3dprintronics](https://www.3dprintronics.com/) |:ballot_box_with_check:|
 | 5 | Heated bed | MK3 3mm Aluminum | 1 | |:white_square_button:|
 | 6 | Hotend + Extruder | e3d v6 24V | 1 | ||
-| 7 | TFT Touch display | | 1 | |:white_square_button:|
+| 7 | TFT Touch display | | 1 | |:ballot_box_with_check:|
 | 8 | AC Power Socket Switch | | 1 | |:ballot_box_with_check:|
 | 9 | Endstop                | |  | ||
 | 10 | Part Cooling Fan | 24V | 1 | |:white_square_button:|
